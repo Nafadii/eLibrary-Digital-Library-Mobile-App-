@@ -5,7 +5,7 @@ A comprehensive digital library mobile application designed to provide users wit
 
 ## Screenshots
 <p align="center">
-  <img src="Home Page.png" width="250" />
+  <img src="screenshots/Home Page.png" width="250" />
   <img src="screenshots/Home Page Dark.png" width="250" />
   <img src="screenshots/Profile.png" width="250" />
   <img src="screenshots/Profile Dark.png" width="250" />
