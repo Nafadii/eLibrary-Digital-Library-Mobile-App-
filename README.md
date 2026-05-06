@@ -5,12 +5,12 @@ A comprehensive digital library mobile application designed to provide users wit
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/Screenshot 2026-05-07 013706.png" width="250" />
-  <img src="screenshots/Screenshot 2026-05-07 013750.png" width="250" />
-  <img src="screenshots/Screenshot 2026-05-07 013741.png" width="250" />
-  <img src="screenshots/Screenshot 2026-05-07 013746.png" width="250" />
-  <img src="screenshots/Screenshot 2026-05-07 013717.png" width="250" />
-  <img src="screenshots/Screenshot 2026-05-07 013733.png" width="250" />
+  <img src="Screenshots/Screenshot 2026-05-07 013706.png" width="250" />
+  <img src="Screenshots/Screenshot 2026-05-07 013750.png" width="250" />
+  <img src="Screenshots/Screenshot 2026-05-07 013741.png" width="250" />
+  <img src="Screenshots/Screenshot 2026-05-07 013746.png" width="250" />
+  <img src="Screenshots/Screenshot 2026-05-07 013717.png" width="250" />
+  <img src="Screenshots/Screenshot 2026-05-07 013733.png" width="250" />
 </p>
 
 ## Tech Stack
