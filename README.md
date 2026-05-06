@@ -7,9 +7,9 @@ A comprehensive digital library mobile application designed to provide users wit
 <p align="center">
   <img src="Home Page.png" width="250" />
   <img src="screenshots/Home Page Dark.png" width="250" />
-  <img src="screenshots/Prfoile.png" width="250" />
+  <img src="screenshots/Profile.png" width="250" />
   <img src="screenshots/Profile Dark.png" width="250" />
-  <img src="screenshots/PDF Viwer.png" width="250" />
+  <img src="screenshots/PDF Viewer.png" width="250" />
   <img src="screenshots/details_screen.png" width="250" />
 </p>
 
